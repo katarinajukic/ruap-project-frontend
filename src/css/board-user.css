@@ -1,0 +1,98 @@
+
+.container2{
+    max-width: 750px !important;
+    padding: 40px 40px;
+    font-size: 12px;
+    font-weight: bold;
+    background-image: none;
+    margin-left: 160px;
+}
+
+.custom-h6 {
+    font-size: 15px;
+    font-weight: normal;
+    text-align: center;
+    color: #3498db;
+    margin-bottom: 17px; 
+  }
+
+  .custom-h7 {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+
+    margin-bottom: 17px;
+  }
+
+  
+
+  .form-control{
+    font-size: 12px;
+  }
+
+  .btn-center{
+    background-color: #3498db;
+  }
+  
+
+
+.node-container {
+
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+  
+  .d-flex.active {
+    color: #ffffff;
+    background-color: #3498db;
+  }
+
+  .d-flex{
+    text-align: center;
+    cursor: pointer;
+    padding: 1px;
+    border-radius: 5px;
+    background-color: #ecf0f1;
+    font-size: 16px;
+    transition: background-color 0.3s, color 0.3s;
+    
+  }
+
+.number-selector {
+    text-align: center;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: normal;
+
+    font-size: 12px;
+    transition: background-color 0.3s, color 0.3s;
+    margin: 5px;
+  }
+  
+  .number-selector:hover {
+    background-color: #3498db;
+    color: #ffffff;
+  }
+  
+  .number-selector.selected {
+    background-color: #3498db;
+    color: #ffffff;
+  }
+
+  .jumbotron3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 50vh;
+  }
+  
+  .bottom-content {
+    margin-top: auto;
+  }
+  
+  
+  
+
+  

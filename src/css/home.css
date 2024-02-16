@@ -1,0 +1,43 @@
+
+
+.lung-cancer-image {
+    margin: 0;
+  padding: 0 !important;
+  width: 1400px; 
+  height: fit-content; 
+  object-fit: cover;
+  border-radius: 10px; 
+  margin-left: -150px;
+  }
+  
+  .jumbotron4 {
+    border-radius: 10px;
+    color: black;
+    max-width: 1200px;
+    margin-left: 190px; 
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.8); 
+  }
+
+  .jumbotron4 p1 {
+    margin: 10px 0; 
+    padding: 50px;
+  }
+
+  .p2{
+    margin: 100px 0; 
+    padding: 50px;
+  }
+  
+  .btn-primary {
+    display: block;
+    margin: 10px auto; 
+    width: 250px;
+    height: 50px;
+    padding: 10px;
+    font-size: large;
+  }
+
+  
+
+
